@@ -1,0 +1,11 @@
+.app {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wave {
+  aspect-ratio: 900/300;
+  width: 100%;
+}
